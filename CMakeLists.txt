@@ -30,3 +30,4 @@ include(cmake/utils.cmake)
 
 # add modules directory to the build
 add_subdirectory(Module-11)
+add_subdirectory(Module-12)
