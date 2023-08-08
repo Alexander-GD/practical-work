@@ -19,6 +19,6 @@
 
 ## **Модуль 13. Знакомство с *std::vector* v2.**
 - ### **Практическая работа**
-    - [Задание 13.1](module-13/Task-1/src/main.cpp)
-    - [Задание 13.2](module-13/Task-2/src/main.cpp)
-    - [Задание 13.3](module-13/Task-3/src/main.cpp)
+    - [Задание 13.1](Module-13/Task-1/src/main.cpp)
+    - [Задание 13.2](Module-13/Task-2/src/main.cpp)
+    - [Задание 13.3](Module-13/Task-3/src/main.cpp)
