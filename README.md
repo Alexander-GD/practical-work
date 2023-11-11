@@ -44,3 +44,13 @@
     - [Задание 15.2](Module-15/Task-2/src/main.cpp)
     - [Задание 15.3](Module-15/Task-3/src/main.cpp)
     - [Задание 15.4](Module-15/Task-4/src/main.cpp)
+
+<br/>
+
+## **Модуль 16. Типы данных.**
+- ### **Практическая работа**
+    - [Задание 16.1 Спидометр.](Module-16/Task-1/src/main.cpp)
+    - [Задание 16.2 Сшиватель дробных чисел.](Module-16/Task-2/src/main.cpp)
+    - [Задание 16.3 Калькулятор.](Module-16/Task-3/src/main.cpp)
+    - [Задание 16.4 Механическое пианино.](Module-16/Task-4/src/main.cpp)
+    - [Задание 16.5 Умный дом.](Module-16/Task-5/src/main.cpp)
