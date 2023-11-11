@@ -5,11 +5,11 @@ using namespace std;
 
 main()
 {
-     cout << "Task 16.5 Smart House\n"
-          << "------------------------\n\n";
+    cout << "Task 16.5 Smart House\n"
+         << "------------------------\n\n";
 
-     smartHouseSimulation();
+    smartHouseSimulation();
 
-     cin.get();
-     return 0;
+    cin.get();
+    return 0;
 }
