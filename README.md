@@ -54,3 +54,11 @@
     - [Задание 16.3 Калькулятор](Module-16/Task-3/src/main.cpp)
     - [Задание 16.4 Механическое пианино](Module-16/Task-4/src/main.cpp)
     - [Задание 16.5 Умный дом](Module-16/Task-5/src/main.cpp)
+
+<br/>
+
+## **Модуль 17. Указатели**
+- ### **Практическая работа**
+    - [Задание 17.1](Module-17/Task-1/src/main.cpp)
+    - [Задание 17.2](Module-17/Task-2/src/main.cpp)
+    - [Задание 17.3](Module-17/Task-3/src/main.cpp)
