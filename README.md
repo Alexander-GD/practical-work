@@ -62,3 +62,11 @@
     - [Задание 17.1](Module-17/Task-1/src/main.cpp)
     - [Задание 17.2](Module-17/Task-2/src/main.cpp)
     - [Задание 17.3](Module-17/Task-3/src/main.cpp)
+
+<br/>
+
+## **Модуль 18. Расширенная работа с функциями**
+- ### **Практическая работа**
+    - [Задание 18.1](Module-18/Task-1/src/main.cpp)
+    - [Задание 18.2](Module-18/Task-2/src/main.cpp)
+    - [Задание 18.3](Module-18/Task-3/src/main.cpp)
