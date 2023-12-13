@@ -1,0 +1,17 @@
+ifstream
+is_open open close
+get peek unget putback getline ignore read
+tellg seekg
+good eof fail bad
+
+ofstream
+is_open open close
+put write
+tellp seekp
+good eof fail bad
+
+fstream
+is_open open close
+get peek unget putback getline ignore read tellg seekg
+put write tellp seekp
+good eof fail bad

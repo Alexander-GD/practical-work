@@ -1,0 +1,309 @@
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+
+
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+
+
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+
+
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+
+
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+
+
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+
+
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+
+
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+
+
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+
+
+std::ifstream defined in header <fstream>
+_______________________________________________________________________________
+
+is_open       - checks if the stream has an associated file
+open          - opens a file and associates it with the stream
+close         - closes the associated file
+
+get           - extracts characters
+peek          - reads the next character without extracting it
+unget         - unextracts a character
+putback       - puts a character into input stream
+getline       - extracts characters until the given character is found
+ignore        - extracts and discards characters until the given character is found
+read          - extracts blocks of characters
+readsome      - extracts already available blocks of characters
+gcount        - returns number of characters extracted by last unformatted input operation
+tellg         - returns the input position indicator
+seekg         - sets the input position indicator
+
+good          - checks if no error has occurred i.e. I/O operations are available
+eof           - checks if end-of-file has been reached
+fail          - checks if an error has occurred
+bad           - checks if a non-recoverable error has occurred
+operator!     - checks if an error has occurred (synonym of fail())
+operator bool - checks if no error has occurred (synonym of !fail())
+rdstate       - returns state flags
+setstate      - sets state flags
+clear         - modifies state flags
+
+End of file!

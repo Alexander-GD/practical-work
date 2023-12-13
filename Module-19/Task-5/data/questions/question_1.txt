@@ -1,0 +1,1 @@
+I am a 3 digit number between 400 and 800. My digits add up to 15. My ten's digit is twice my hundreds digit. What number am i?
